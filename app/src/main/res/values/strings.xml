@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LotteryRp</string>
+    <string name="agregar_a_lista">Agregar a lista</string>
+
+    <string-array name="loterias">
+
+        <item>Anguilla10:   07:00-10:00</item>
+        <item>La-Primera:   06:00-11:55</item>
+        <item>La-Suerte:    06:00-12:28</item>
+        <item>La-Real AM:   06:00-12:55</item>
+        <item>Anguilla1:    07:00-12:56</item>
+        <item>Florida-Am:   07:00-02:29</item>
+        <item>Gana-Mas:     06:00-02:37</item>
+        <item>LOTEDOM:      07:00-02:52</item>
+        <item>NYRD AM:      07:00-03:27</item>
+        <item>Anguilla5p:   07:00-04:57</item>
+        <item>Nacional:     06:00-05:55</item>
+        <item>Loteka:       06:00-07:55</item>
+        <item>Q.Pale:       06:00-08:55</item>
+        <item>Anguilla9p:   07:00-09:00</item>
+        <item>Florida PM:   07:00-10:30</item>
+        <item>NYRD PM:      07:00-11:25</item>
+
+    </string-array>
+</resources>
